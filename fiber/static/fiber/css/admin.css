@@ -513,7 +513,7 @@ span.nobr {
 .df-admin #page_form {
 	overflow: hidden;
 	padding: 0 15px;
-	width: 295px;
+	width: 323px;
 }
 
 .df-admin #page_form fieldset {
@@ -802,4 +802,11 @@ ul.jqtree-tree .jqtree-moving > div .jqtree-title {
 
 .simple-data-grid thead th a .sort {
 	top: 4px;
+}
+
+
+/* grappelli's custom css */
+
+.grp-module.grp-submit-row.grp-fixed-footer {
+    display: none;
 }
