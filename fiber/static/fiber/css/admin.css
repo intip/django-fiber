@@ -807,6 +807,10 @@ ul.jqtree-tree .jqtree-moving > div .jqtree-title {
 
 /* grappelli's custom css */
 
-.grp-module.grp-submit-row.grp-fixed-footer {
+.ui-dialog .grp-module.grp-submit-row.grp-fixed-footer {
+    display: none;
+}
+
+#fiber-backend-toolbar {
     display: none;
 }
