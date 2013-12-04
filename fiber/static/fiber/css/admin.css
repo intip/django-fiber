@@ -814,3 +814,11 @@ ul.jqtree-tree .jqtree-moving > div .jqtree-title {
 #fiber-backend-toolbar {
     display: none;
 }
+
+.grp-current-page {
+    font-size: 20px;
+}
+
+.grp-module.grp-submit-row {
+    display: none;
+}
