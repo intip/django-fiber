@@ -815,10 +815,10 @@ ul.jqtree-tree .jqtree-moving > div .jqtree-title {
     display: none;
 }
 
-.grp-current-page {
+.ui-dialog .grp-current-page {
     font-size: 20px;
 }
 
-.grp-module.grp-submit-row {
+.ui-dialog .grp-module.grp-submit-row {
     display: none;
 }
